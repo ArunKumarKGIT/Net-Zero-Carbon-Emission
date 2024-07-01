@@ -1,3 +1,4 @@
+The Cognizant ProDigi event is a part of Cognizant's series of events focused on digital transformation and innovation in various industries. This project was developed to participate in the Cognizant ProDigi event which cleared all the initial rounds and went uptill the final round.
 # Net-Zero-Carbon-Emission
 Providing a better world for our future generation is one of our primary duty as fellow human beings. Emission of CO2, wastage of food and other resources in an uncontrollable manner is something that needs to be taken care of. To overcome this, every company/organization (private/public) need to take some preventive measures.
 Carbon footprints can be tracked real-time while it is made to pass out through a common outlet.
